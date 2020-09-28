@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "76Vt9NekavxrV0BOwx8TmAZ8/nwjM6hpiMIHbQFArvsYiMUUXGG28w3eR2lKl6wSLGz3HshsnFoM5TOMniA4wA==",
+  "success": true,
+  "projectFilePath": "/Users/carringtonbeard/codefellows/401/Kochenberger/Kochenberger/Kochenberger.csproj",
+  "expectedPackageFiles": [
+    "/Users/carringtonbeard/.nuget/packages/bootstrap/4.5.2/bootstrap.4.5.2.nupkg.sha512",
+    "/Users/carringtonbeard/.nuget/packages/jquery/3.0.0/jquery.3.0.0.nupkg.sha512",
+    "/Users/carringtonbeard/.nuget/packages/popper.js/1.16.1/popper.js.1.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}

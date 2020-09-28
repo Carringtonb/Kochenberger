@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{E09A8A42-9F5D-4E26-87D4-DE09428BA7BB}|Default">
+  <MonoDevelop.Ide.ItemProperties.Kochenberger PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../.nuget/packages/bootstrap/4.5.2/contentFiles/any/any/wwwroot/css/bootstrap.css">
+    <Files>
+      <File FileName="Startup.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Pages/Index.cshtml.cs" Line="1" Column="1" />
+      <File FileName="Pages/Index.cshtml" Line="26" Column="46" />
+      <File FileName="Pages/Shared/_Layout.cshtml" Line="40" Column="92" />
+      <File FileName="../../../../.nuget/packages/bootstrap/4.5.2/contentFiles/any/any/wwwroot/css/bootstrap.css" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Kochenberger" expanded="True">
+            <Node name="Kochenberger" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="Index.cshtml" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True">
+                  <Node name="bootstrap.css" expanded="True" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
